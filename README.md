@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, 👋 I'm Alexandros Lattas
+---
+I am researching how AI can generate realistic virtual humans, as a PhD student at Imperial College London.
+
+I have studied Computer Science and Innovation Management at Imperial College London, University College London and the Athens University of Economics and Business.
 
 <!--
 **lattas/lattas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
