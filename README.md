@@ -3,7 +3,7 @@
 I am researching how we can capture and generate photorealistic human face avatars, as a PhD student at Imperial College London.
 Currently working as a Researcher in Computer Vision, at Huawei UK R&D. I have studied Computer Science and Innovation Management at Imperial College London, UCL and AUEB.
 
-Links: [Personal](https://alexlattas.com),  [Scholar](https://scholar.google.com/citations?user=0wJRUlsAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/lattas/)[Twitter](https://twitter.com/alexlattas)
+Links: [Personal](https://alexlattas.com),  [Scholar](https://scholar.google.com/citations?user=0wJRUlsAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/lattas/), [Twitter](https://twitter.com/alexlattas)
 
 <!--
 **lattas/lattas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
