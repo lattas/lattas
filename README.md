@@ -1,7 +1,7 @@
 ### Hi, 👋 I'm Alexandros Lattas
 ---
-I am researching how we can capture and generate photorealistic human face avatars, as a PhD student at Imperial College London.
-Currently working as a Researcher in Computer Vision, at Huawei UK R&D. I have studied Computer Science and Innovation Management at Imperial College London, UCL and AUEB.
+I am researching how we can capture and generate photorealistic humans. I have a PhD in Computer Science from Imperial College London. I have studied Computer Science and Innovation Management at Imperial College London, UCL and AUEB.
+Currently working as a Researcher in Computer Vision, at Huawei UK R&D.
 
 Links: [Personal](https://alexlattas.com),  [Scholar](https://scholar.google.com/citations?user=0wJRUlsAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/lattas/), [Twitter](https://twitter.com/alexlattas)
 
